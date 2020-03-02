@@ -1,0 +1,810 @@
+Steve Jones||Matt Jones||2008
+Steve Jones||Ian H. Witten||2008
+Sam McIntosh||Matt Jones||2008
+Sam McIntosh||Ian H. Witten||2008
+Matt Jones||Ian H. Witten||2008
+Benjamin Martin||Pierre Hanna||2011
+Benjamin Martin||Matthias Robine||2011
+Benjamin Martin||Pascal Ferraro||2011
+Pierre Hanna||Matthias Robine||2011
+Pierre Hanna||Pascal Ferraro||2011
+Matthias Robine||Pascal Ferraro||2011
+Xiaonan Lu||Prasenjit Mitra||2006
+Xiaonan Lu||James Ze Wang||2006
+Xiaonan Lu||C. Lee Giles||2006
+Prasenjit Mitra||James Ze Wang||2006
+Prasenjit Mitra||C. Lee Giles||2006
+James Ze Wang||C. Lee Giles||2006
+Mario Lipinski||Kevin Yao||2013
+Mario Lipinski||Corinna Breitinger||2013
+Mario Lipinski||Joran Beel||2013
+Mario Lipinski||Bela Gipp||2013
+Kevin Yao||Corinna Breitinger||2013
+Kevin Yao||Joran Beel||2013
+Kevin Yao||Bela Gipp||2013
+Corinna Breitinger||Joran Beel||2013
+Corinna Breitinger||Bela Gipp||2013
+Joran Beel||Bela Gipp||2013
+Laure Soulier||Lamjed Ben Jabeur||2012
+Laure Soulier||Lynda Tamine||2012
+Laure Soulier||Wahiba Bahsoun||2012
+Lamjed Ben Jabeur||Lynda Tamine||2012
+Lamjed Ben Jabeur||Wahiba Bahsoun||2012
+Lynda Tamine||Wahiba Bahsoun||2012
+David Lamb||Daniel Lucchesi||2008
+Eiji Ikoma||Taikan Oki||2001
+Eiji Ikoma||Masaru Kitsuregawa||2001
+Taikan Oki||Masaru Kitsuregawa||2001
+J. Alfredo Sanchez||Adriana Arzamendi-Petriz||2007
+J. Alfredo Sanchez||Omar Valdiviezo||2007
+Adriana Arzamendi-Petriz||Omar Valdiviezo||2007
+Sarah Giersch||Flora P. McMartin||2013
+Stuart A. Sutton||Elizabeth D. Liddy||2002
+Stuart A. Sutton||John Kendall||2002
+Elizabeth D. Liddy||John Kendall||2002
+Adrian Popescu||Gregory Grefenstette||2008
+Adrian Popescu||Pierre-Alain Moellic||2008
+Gregory Grefenstette||Pierre-Alain Moellic||2008
+Lina Huang||Rahul A. Deshmukh||2010
+Lina Huang||Javed Mostafa||2010
+Lina Huang||Jane Greenberg||2010
+Rahul A. Deshmukh||Javed Mostafa||2010
+Rahul A. Deshmukh||Jane Greenberg||2010
+Javed Mostafa||Jane Greenberg||2010
+Kai Eckert 0001||Heiner Stuckenschmidt||2008
+Kai Eckert 0001||Magnus Pfeffer||2008
+Heiner Stuckenschmidt||Magnus Pfeffer||2008
+Kaj Gr©ªnb©¡k||Anne Rohde||2006
+Kaj Gr©ªnb©¡k||Balasuthas Sundararajah||2006
+Kaj Gr©ªnb©¡k||Sidsel Bech-Petersen||2006
+Anne Rohde||Balasuthas Sundararajah||2006
+Anne Rohde||Sidsel Bech-Petersen||2006
+Balasuthas Sundararajah||Sidsel Bech-Petersen||2006
+Spencer J. Lee||Bradley Willis||2010
+Spencer J. Lee||Joseph S. Bourne Jr.||2010
+Spencer J. Lee||Edward A. Fox||2010
+Bradley Willis||Joseph S. Bourne Jr.||2010
+Bradley Willis||Edward A. Fox||2010
+Joseph S. Bourne Jr.||Edward A. Fox||2010
+John A. D'Ignazio||Joseph D. Ryan||2007
+John A. D'Ignazio||Sarah Harwell||2007
+John A. D'Ignazio||Anne Diekema||2007
+John A. D'Ignazio||Elizabeth D. Liddy||2007
+Joseph D. Ryan||Sarah Harwell||2007
+Joseph D. Ryan||Anne Diekema||2007
+Joseph D. Ryan||Elizabeth D. Liddy||2007
+Sarah Harwell||Anne Diekema||2007
+Sarah Harwell||Elizabeth D. Liddy||2007
+Anne Diekema||Elizabeth D. Liddy||2007
+Edward A. Fox||Marcos Andre Goncalves||2005
+Jingjing Liu||Michael J. Cole||2010
+Jingjing Liu||Chang Liu||2010
+Jingjing Liu||Ralf Bierig||2010
+Jingjing Liu||Jacek Gwizdka||2010
+Jingjing Liu||Nicholas J. Belkin||2010
+Jingjing Liu||Jun Zhang||2010
+Jingjing Liu||Xiangmin Zhang||2010
+Michael J. Cole||Chang Liu||2010
+Michael J. Cole||Ralf Bierig||2010
+Michael J. Cole||Jacek Gwizdka||2010
+Michael J. Cole||Nicholas J. Belkin||2010
+Michael J. Cole||Jun Zhang||2010
+Michael J. Cole||Xiangmin Zhang||2010
+Chang Liu||Ralf Bierig||2010
+Chang Liu||Jacek Gwizdka||2010
+Chang Liu||Nicholas J. Belkin||2010
+Chang Liu||Jun Zhang||2010
+Chang Liu||Xiangmin Zhang||2010
+Ralf Bierig||Jacek Gwizdka||2010
+Ralf Bierig||Nicholas J. Belkin||2010
+Ralf Bierig||Jun Zhang||2010
+Ralf Bierig||Xiangmin Zhang||2010
+Jacek Gwizdka||Nicholas J. Belkin||2010
+Jacek Gwizdka||Jun Zhang||2010
+Jacek Gwizdka||Xiangmin Zhang||2010
+Nicholas J. Belkin||Jun Zhang||2010
+Nicholas J. Belkin||Xiangmin Zhang||2010
+Jun Zhang||Xiangmin Zhang||2010
+Bradley P. Allen||Joseph T. Tennis||2004
+Barbara Lagoeiro Moreira||Marcos Andre Goncalves||2007
+Barbara Lagoeiro Moreira||Alberto H. F. Laender||2007
+Barbara Lagoeiro Moreira||Edward A. Fox||2007
+Marcos Andre Goncalves||Alberto H. F. Laender||2007
+Marcos Andre Goncalves||Edward A. Fox||2007
+Alberto H. F. Laender||Edward A. Fox||2007
+Ian H. Witten||David Bainbridge||2002
+Ian H. Witten||Gordon W. Paynter||2002
+Ian H. Witten||Stefan J. Boddie||2002
+David Bainbridge||Gordon W. Paynter||2002
+David Bainbridge||Stefan J. Boddie||2002
+Gordon W. Paynter||Stefan J. Boddie||2002
+Yinlin Chen||Paul Logasa Bogen II||2012
+Yinlin Chen||Hao-wei Hsieh||2012
+Yinlin Chen||Edward A. Fox||2012
+Yinlin Chen||Lillian N. Cassel||2012
+Paul Logasa Bogen II||Hao-wei Hsieh||2012
+Paul Logasa Bogen II||Edward A. Fox||2012
+Paul Logasa Bogen II||Lillian N. Cassel||2012
+Hao-wei Hsieh||Edward A. Fox||2012
+Hao-wei Hsieh||Lillian N. Cassel||2012
+Edward A. Fox||Lillian N. Cassel||2012
+Yves Petinot||Pradeep B. Teregowda||2003
+Yves Petinot||Hui Han||2003
+Yves Petinot||C. Lee Giles||2003
+Yves Petinot||Steve Lawrence||2003
+Yves Petinot||Arvind Rangaswamy||2003
+Yves Petinot||Nirmal Pal||2003
+Pradeep B. Teregowda||Hui Han||2003
+Pradeep B. Teregowda||C. Lee Giles||2003
+Pradeep B. Teregowda||Steve Lawrence||2003
+Pradeep B. Teregowda||Arvind Rangaswamy||2003
+Pradeep B. Teregowda||Nirmal Pal||2003
+Hui Han||C. Lee Giles||2003
+Hui Han||Steve Lawrence||2003
+Hui Han||Arvind Rangaswamy||2003
+Hui Han||Nirmal Pal||2003
+C. Lee Giles||Steve Lawrence||2003
+C. Lee Giles||Arvind Rangaswamy||2003
+C. Lee Giles||Nirmal Pal||2003
+Steve Lawrence||Arvind Rangaswamy||2003
+Steve Lawrence||Nirmal Pal||2003
+Arvind Rangaswamy||Nirmal Pal||2003
+Elaine G. Toms||Christine Dufour||2005
+Elaine G. Toms||Jonathan Lewis||2005
+Elaine G. Toms||Ronald Baecker||2005
+Christine Dufour||Jonathan Lewis||2005
+Christine Dufour||Ronald Baecker||2005
+Jonathan Lewis||Ronald Baecker||2005
+Byron Marshall||Yiwen Zhang||2003
+Byron Marshall||Hsinchun Chen||2003
+Byron Marshall||Ann M. Lally||2003
+Byron Marshall||Rao Shen||2003
+Byron Marshall||Edward A. Fox||2003
+Byron Marshall||Lillian N. Cassel||2003
+Yiwen Zhang||Hsinchun Chen||2003
+Yiwen Zhang||Ann M. Lally||2003
+Yiwen Zhang||Rao Shen||2003
+Yiwen Zhang||Edward A. Fox||2003
+Yiwen Zhang||Lillian N. Cassel||2003
+Hsinchun Chen||Ann M. Lally||2003
+Hsinchun Chen||Rao Shen||2003
+Hsinchun Chen||Edward A. Fox||2003
+Hsinchun Chen||Lillian N. Cassel||2003
+Ann M. Lally||Rao Shen||2003
+Ann M. Lally||Edward A. Fox||2003
+Ann M. Lally||Lillian N. Cassel||2003
+Rao Shen||Edward A. Fox||2003
+Rao Shen||Lillian N. Cassel||2003
+Edward A. Fox||Lillian N. Cassel||2003
+Nakul Rathod||Lillian N. Cassel||2013
+Paula Cristina Vaz||David Martins de Matos||2012
+Paula Cristina Vaz||Bruno Martins||2012
+Paula Cristina Vaz||Pavel Calado||2012
+David Martins de Matos||Bruno Martins||2012
+David Martins de Matos||Pavel Calado||2012
+Bruno Martins||Pavel Calado||2012
+Roberto Torres||Sean M. McNee||2004
+Roberto Torres||Mara Abel||2004
+Roberto Torres||Joseph A. Konstan||2004
+Roberto Torres||John Riedl||2004
+Sean M. McNee||Mara Abel||2004
+Sean M. McNee||Joseph A. Konstan||2004
+Sean M. McNee||John Riedl||2004
+Mara Abel||Joseph A. Konstan||2004
+Mara Abel||John Riedl||2004
+Joseph A. Konstan||John Riedl||2004
+Michael P. D'Alessandro||Richard S. Bakalar||2001
+Michael P. D'Alessandro||Donna M. D'Alessandro||2001
+Michael P. D'Alessandro||Denis E. Ashley||2001
+Michael P. D'Alessandro||Mary J. C. Hendrix||2001
+Richard S. Bakalar||Donna M. D'Alessandro||2001
+Richard S. Bakalar||Denis E. Ashley||2001
+Richard S. Bakalar||Mary J. C. Hendrix||2001
+Donna M. D'Alessandro||Denis E. Ashley||2001
+Donna M. D'Alessandro||Mary J. C. Hendrix||2001
+Denis E. Ashley||Mary J. C. Hendrix||2001
+Alesia Zuccala||Mike Thelwall||2006
+J. Alfredo Sanchez||Ofelia Cervantes||2011
+J. Alfredo Sanchez||Alfredo Ramos||2011
+J. Alfredo Sanchez||Maria Auxilio Medina Nieto||2011
+J. Alfredo Sanchez||Juan Carlos Lavariega||2011
+J. Alfredo Sanchez||Eric Balam||2011
+Ofelia Cervantes||Alfredo Ramos||2011
+Ofelia Cervantes||Maria Auxilio Medina Nieto||2011
+Ofelia Cervantes||Juan Carlos Lavariega||2011
+Ofelia Cervantes||Eric Balam||2011
+Alfredo Ramos||Maria Auxilio Medina Nieto||2011
+Alfredo Ramos||Juan Carlos Lavariega||2011
+Alfredo Ramos||Eric Balam||2011
+Maria Auxilio Medina Nieto||Juan Carlos Lavariega||2011
+Maria Auxilio Medina Nieto||Eric Balam||2011
+Juan Carlos Lavariega||Eric Balam||2011
+Daniel Heesch||Marcus J. Pickering||2004
+Daniel Heesch||Peter Howarth||2004
+Daniel Heesch||Alexei Yavlinsky||2004
+Daniel Heesch||Stefan M. Ruger||2004
+Marcus J. Pickering||Peter Howarth||2004
+Marcus J. Pickering||Alexei Yavlinsky||2004
+Marcus J. Pickering||Stefan M. Ruger||2004
+Peter Howarth||Alexei Yavlinsky||2004
+Peter Howarth||Stefan M. Ruger||2004
+Alexei Yavlinsky||Stefan M. Ruger||2004
+Illhoi Yoo||Xiaohua Hu||2006
+Andrea Ernst-Gerlach||Norbert Fuhr||2007
+Ming-yu Chen||Alexander G. Hauptmann||2004
+Paul Logasa Bogen II||Joshua Johnston||2008
+Paul Logasa Bogen II||Unmil Karadkar||2008
+Paul Logasa Bogen II||Richard Furuta||2008
+Paul Logasa Bogen II||Frank M. Shipman III||2008
+Joshua Johnston||Unmil Karadkar||2008
+Joshua Johnston||Richard Furuta||2008
+Joshua Johnston||Frank M. Shipman III||2008
+Unmil Karadkar||Richard Furuta||2008
+Unmil Karadkar||Frank M. Shipman III||2008
+Richard Furuta||Frank M. Shipman III||2008
+Ann Blandford||George Buchanan||2002
+Tamara Sumner||Sonal Bhushan||2003
+Tamara Sumner||Faisal Ahmad||2003
+Tamara Sumner||Lynne Davis||2003
+Sonal Bhushan||Faisal Ahmad||2003
+Sonal Bhushan||Lynne Davis||2003
+Faisal Ahmad||Lynne Davis||2003
+Zaihan Yang||Brian D. Davison 0001||2012
+Yang Shen||Huijuan Fu||2009
+Yang Shen||Zitao Liu||2009
+Yang Shen||Pengpeng Liu||2009
+Yang Shen||Qingchuan Fu||2009
+Huijuan Fu||Zitao Liu||2009
+Huijuan Fu||Pengpeng Liu||2009
+Huijuan Fu||Qingchuan Fu||2009
+Zitao Liu||Pengpeng Liu||2009
+Zitao Liu||Qingchuan Fu||2009
+Pengpeng Liu||Qingchuan Fu||2009
+Maria Esteva||Hai Bi||2009
+Bill Kules||Robert Capra||2009
+Bill Kules||Matthew Banta||2009
+Bill Kules||Tito Sierra||2009
+Robert Capra||Matthew Banta||2009
+Robert Capra||Tito Sierra||2009
+Matthew Banta||Tito Sierra||2009
+Chunxia Zhang||Guiping Wang||2008
+Chunxia Zhang||Zhendong Niu||2008
+Guiping Wang||Zhendong Niu||2008
+Greg Keast||Elaine G. Toms||2001
+Greg Keast||Joan M. Cherry||2001
+Elaine G. Toms||Joan M. Cherry||2001
+Charles L. Cartledge||Michael L. Nelson||2008
+Ahmed Alsum||Michael L. Nelson||2013
+Bin Zhu||Gondy Leroy||2002
+Bin Zhu||Hsinchun Chen||2002
+Bin Zhu||Yongchi Chen||2002
+Gondy Leroy||Hsinchun Chen||2002
+Gondy Leroy||Yongchi Chen||2002
+Hsinchun Chen||Yongchi Chen||2002
+Ian H. Witten||David Bainbridge||2005
+Adam Jatowt||Katsumi Tanaka||2012
+Fausto Marincioni||Frances L. Lightsom||2002
+Rainer Simon||Bernhard Haslhofer||2011
+Rainer Simon||Werner Robitza||2011
+Rainer Simon||Elaheh Momeni Roochi||2011
+Bernhard Haslhofer||Werner Robitza||2011
+Bernhard Haslhofer||Elaheh Momeni Roochi||2011
+Werner Robitza||Elaheh Momeni Roochi||2011
+Shuheng Wu||Besiki Stvilia||2012
+Shuheng Wu||Dong Joon Lee||2012
+Besiki Stvilia||Dong Joon Lee||2012
+Maayan Geffet||Dror G. Feitelson||2001
+Bageshree Shevade||Hari Sundaram||2007
+Bageshree Shevade||Lexing Xie||2007
+Hari Sundaram||Lexing Xie||2007
+Justin F. Brunelle||Michael L. Nelson||2013
+Bai-Hsuan Chen||Sheng-Hao Hung||2003
+Bai-Hsuan Chen||Jen-Shin Hong||2003
+Sheng-Hao Hung||Jen-Shin Hong||2003
+Sooyoung Oh||Zhen Lei||2012
+Sooyoung Oh||Prasenjit Mitra||2012
+Sooyoung Oh||John Yen||2012
+Zhen Lei||Prasenjit Mitra||2012
+Zhen Lei||John Yen||2012
+Prasenjit Mitra||John Yen||2012
+Jeremy C. Durack||Amy L. Ladd||2007
+Jeremy C. Durack||Shyh-Yuan Kung||2007
+Jeremy C. Durack||Margaret Krebs||2007
+Jeremy C. Durack||Robert A. Chase||2007
+Jeremy C. Durack||Parvati Dev||2007
+Amy L. Ladd||Shyh-Yuan Kung||2007
+Amy L. Ladd||Margaret Krebs||2007
+Amy L. Ladd||Robert A. Chase||2007
+Amy L. Ladd||Parvati Dev||2007
+Shyh-Yuan Kung||Margaret Krebs||2007
+Shyh-Yuan Kung||Robert A. Chase||2007
+Shyh-Yuan Kung||Parvati Dev||2007
+Margaret Krebs||Robert A. Chase||2007
+Margaret Krebs||Parvati Dev||2007
+Robert A. Chase||Parvati Dev||2007
+Shirley Rodgers||Elisabeth Wheeler||2005
+Shirley Rodgers||Troy Simpson||2005
+Shirley Rodgers||Jeff Bartlett||2005
+Elisabeth Wheeler||Troy Simpson||2005
+Elisabeth Wheeler||Jeff Bartlett||2005
+Troy Simpson||Jeff Bartlett||2005
+David J. Yaron||Jodi L. Davenport||2008
+David J. Yaron||Michael Karabinos||2008
+David J. Yaron||Gaea Leinhardt||2008
+David J. Yaron||Laura M. Bartolo||2008
+David J. Yaron||John J. Portman||2008
+David J. Yaron||Cathy S. Lowe||2008
+David J. Yaron||Donald R. Sadoway||2008
+David J. Yaron||W. Craig Carter||2008
+David J. Yaron||Colin Ashe||2008
+Jodi L. Davenport||Michael Karabinos||2008
+Jodi L. Davenport||Gaea Leinhardt||2008
+Jodi L. Davenport||Laura M. Bartolo||2008
+Jodi L. Davenport||John J. Portman||2008
+Jodi L. Davenport||Cathy S. Lowe||2008
+Jodi L. Davenport||Donald R. Sadoway||2008
+Jodi L. Davenport||W. Craig Carter||2008
+Jodi L. Davenport||Colin Ashe||2008
+Michael Karabinos||Gaea Leinhardt||2008
+Michael Karabinos||Laura M. Bartolo||2008
+Michael Karabinos||John J. Portman||2008
+Michael Karabinos||Cathy S. Lowe||2008
+Michael Karabinos||Donald R. Sadoway||2008
+Michael Karabinos||W. Craig Carter||2008
+Michael Karabinos||Colin Ashe||2008
+Gaea Leinhardt||Laura M. Bartolo||2008
+Gaea Leinhardt||John J. Portman||2008
+Gaea Leinhardt||Cathy S. Lowe||2008
+Gaea Leinhardt||Donald R. Sadoway||2008
+Gaea Leinhardt||W. Craig Carter||2008
+Gaea Leinhardt||Colin Ashe||2008
+Laura M. Bartolo||John J. Portman||2008
+Laura M. Bartolo||Cathy S. Lowe||2008
+Laura M. Bartolo||Donald R. Sadoway||2008
+Laura M. Bartolo||W. Craig Carter||2008
+Laura M. Bartolo||Colin Ashe||2008
+John J. Portman||Cathy S. Lowe||2008
+John J. Portman||Donald R. Sadoway||2008
+John J. Portman||W. Craig Carter||2008
+John J. Portman||Colin Ashe||2008
+Cathy S. Lowe||Donald R. Sadoway||2008
+Cathy S. Lowe||W. Craig Carter||2008
+Cathy S. Lowe||Colin Ashe||2008
+Donald R. Sadoway||W. Craig Carter||2008
+Donald R. Sadoway||Colin Ashe||2008
+W. Craig Carter||Colin Ashe||2008
+Byron Marshall||Rene F. Reitsma||2009
+Byron Marshall||Malinda Zarske||2009
+Rene F. Reitsma||Malinda Zarske||2009
+Joan A. Smith||Michael L. Nelson||2007
+David J. Harper||Sara Coulthard||2002
+David J. Harper||Sun Yixing||2002
+Sara Coulthard||Sun Yixing||2002
+Michael Khoo||Robert A. Donahue||2007
+Yongqing Ma||Warwick Clegg||2006
+Yongqing Ma||Ann O'Brien||2006
+Warwick Clegg||Ann O'Brien||2006
+Sally E. Howe||David C. Nagel||2001
+Sally E. Howe||Ching-chih Chen||2001
+Sally E. Howe||Stephen M. Griffin||2001
+Sally E. Howe||James Lightbourne||2001
+Sally E. Howe||Walter L. Warnick||2001
+David C. Nagel||Ching-chih Chen||2001
+David C. Nagel||Stephen M. Griffin||2001
+David C. Nagel||James Lightbourne||2001
+David C. Nagel||Walter L. Warnick||2001
+Ching-chih Chen||Stephen M. Griffin||2001
+Ching-chih Chen||James Lightbourne||2001
+Ching-chih Chen||Walter L. Warnick||2001
+Stephen M. Griffin||James Lightbourne||2001
+Stephen M. Griffin||Walter L. Warnick||2001
+James Lightbourne||Walter L. Warnick||2001
+Alberto H. F. Laender||Mirella M. Moro||2011
+Alberto H. F. Laender||Marcos Andre Goncalves||2011
+Alberto H. F. Laender||Clodoveu Augusto Davis Jr.||2011
+Alberto H. F. Laender||Altigran Soares da Silva||2011
+Alberto H. F. Laender||Allan J. C. Silva||2011
+Alberto H. F. Laender||Carolina A. S. Bigonha||2011
+Alberto H. F. Laender||Daniel Hasan Dalip||2011
+Alberto H. F. Laender||Eduardo M. Barbosa||2011
+Alberto H. F. Laender||Eli Cortez||2011
+Alberto H. F. Laender||Peterson S. Procopio Jr.||2011
+Alberto H. F. Laender||Rafael Odon de Alencar||2011
+Alberto H. F. Laender||Thiago N. C. Cardoso||2011
+Alberto H. F. Laender||Thiago Salles||2011
+Mirella M. Moro||Marcos Andre Goncalves||2011
+Mirella M. Moro||Clodoveu Augusto Davis Jr.||2011
+Mirella M. Moro||Altigran Soares da Silva||2011
+Mirella M. Moro||Allan J. C. Silva||2011
+Mirella M. Moro||Carolina A. S. Bigonha||2011
+Mirella M. Moro||Daniel Hasan Dalip||2011
+Mirella M. Moro||Eduardo M. Barbosa||2011
+Mirella M. Moro||Eli Cortez||2011
+Mirella M. Moro||Peterson S. Procopio Jr.||2011
+Mirella M. Moro||Rafael Odon de Alencar||2011
+Mirella M. Moro||Thiago N. C. Cardoso||2011
+Mirella M. Moro||Thiago Salles||2011
+Marcos Andre Goncalves||Clodoveu Augusto Davis Jr.||2011
+Marcos Andre Goncalves||Altigran Soares da Silva||2011
+Marcos Andre Goncalves||Allan J. C. Silva||2011
+Marcos Andre Goncalves||Carolina A. S. Bigonha||2011
+Marcos Andre Goncalves||Daniel Hasan Dalip||2011
+Marcos Andre Goncalves||Eduardo M. Barbosa||2011
+Marcos Andre Goncalves||Eli Cortez||2011
+Marcos Andre Goncalves||Peterson S. Procopio Jr.||2011
+Marcos Andre Goncalves||Rafael Odon de Alencar||2011
+Marcos Andre Goncalves||Thiago N. C. Cardoso||2011
+Marcos Andre Goncalves||Thiago Salles||2011
+Clodoveu Augusto Davis Jr.||Altigran Soares da Silva||2011
+Clodoveu Augusto Davis Jr.||Allan J. C. Silva||2011
+Clodoveu Augusto Davis Jr.||Carolina A. S. Bigonha||2011
+Clodoveu Augusto Davis Jr.||Daniel Hasan Dalip||2011
+Clodoveu Augusto Davis Jr.||Eduardo M. Barbosa||2011
+Clodoveu Augusto Davis Jr.||Eli Cortez||2011
+Clodoveu Augusto Davis Jr.||Peterson S. Procopio Jr.||2011
+Clodoveu Augusto Davis Jr.||Rafael Odon de Alencar||2011
+Clodoveu Augusto Davis Jr.||Thiago N. C. Cardoso||2011
+Clodoveu Augusto Davis Jr.||Thiago Salles||2011
+Altigran Soares da Silva||Allan J. C. Silva||2011
+Altigran Soares da Silva||Carolina A. S. Bigonha||2011
+Altigran Soares da Silva||Daniel Hasan Dalip||2011
+Altigran Soares da Silva||Eduardo M. Barbosa||2011
+Altigran Soares da Silva||Eli Cortez||2011
+Altigran Soares da Silva||Peterson S. Procopio Jr.||2011
+Altigran Soares da Silva||Rafael Odon de Alencar||2011
+Altigran Soares da Silva||Thiago N. C. Cardoso||2011
+Altigran Soares da Silva||Thiago Salles||2011
+Allan J. C. Silva||Carolina A. S. Bigonha||2011
+Allan J. C. Silva||Daniel Hasan Dalip||2011
+Allan J. C. Silva||Eduardo M. Barbosa||2011
+Allan J. C. Silva||Eli Cortez||2011
+Allan J. C. Silva||Peterson S. Procopio Jr.||2011
+Allan J. C. Silva||Rafael Odon de Alencar||2011
+Allan J. C. Silva||Thiago N. C. Cardoso||2011
+Allan J. C. Silva||Thiago Salles||2011
+Carolina A. S. Bigonha||Daniel Hasan Dalip||2011
+Carolina A. S. Bigonha||Eduardo M. Barbosa||2011
+Carolina A. S. Bigonha||Eli Cortez||2011
+Carolina A. S. Bigonha||Peterson S. Procopio Jr.||2011
+Carolina A. S. Bigonha||Rafael Odon de Alencar||2011
+Carolina A. S. Bigonha||Thiago N. C. Cardoso||2011
+Carolina A. S. Bigonha||Thiago Salles||2011
+Daniel Hasan Dalip||Eduardo M. Barbosa||2011
+Daniel Hasan Dalip||Eli Cortez||2011
+Daniel Hasan Dalip||Peterson S. Procopio Jr.||2011
+Daniel Hasan Dalip||Rafael Odon de Alencar||2011
+Daniel Hasan Dalip||Thiago N. C. Cardoso||2011
+Daniel Hasan Dalip||Thiago Salles||2011
+Eduardo M. Barbosa||Eli Cortez||2011
+Eduardo M. Barbosa||Peterson S. Procopio Jr.||2011
+Eduardo M. Barbosa||Rafael Odon de Alencar||2011
+Eduardo M. Barbosa||Thiago N. C. Cardoso||2011
+Eduardo M. Barbosa||Thiago Salles||2011
+Eli Cortez||Peterson S. Procopio Jr.||2011
+Eli Cortez||Rafael Odon de Alencar||2011
+Eli Cortez||Thiago N. C. Cardoso||2011
+Eli Cortez||Thiago Salles||2011
+Peterson S. Procopio Jr.||Rafael Odon de Alencar||2011
+Peterson S. Procopio Jr.||Thiago N. C. Cardoso||2011
+Peterson S. Procopio Jr.||Thiago Salles||2011
+Rafael Odon de Alencar||Thiago N. C. Cardoso||2011
+Rafael Odon de Alencar||Thiago Salles||2011
+Thiago N. C. Cardoso||Thiago Salles||2011
+Laura M. Bartolo||Sharon C. Glotzer||2004
+Laura M. Bartolo||Javed I. Khan||2004
+Laura M. Bartolo||Adam C. Powell||2004
+Laura M. Bartolo||Donald R. Sadoway||2004
+Laura M. Bartolo||Kenneth M. Anderson||2004
+Laura M. Bartolo||James A. Warren||2004
+Laura M. Bartolo||Vinod Tewary||2004
+Laura M. Bartolo||Cathy S. Lowe||2004
+Laura M. Bartolo||Cecilia Robinson||2004
+Sharon C. Glotzer||Javed I. Khan||2004
+Sharon C. Glotzer||Adam C. Powell||2004
+Sharon C. Glotzer||Donald R. Sadoway||2004
+Sharon C. Glotzer||Kenneth M. Anderson||2004
+Sharon C. Glotzer||James A. Warren||2004
+Sharon C. Glotzer||Vinod Tewary||2004
+Sharon C. Glotzer||Cathy S. Lowe||2004
+Sharon C. Glotzer||Cecilia Robinson||2004
+Javed I. Khan||Adam C. Powell||2004
+Javed I. Khan||Donald R. Sadoway||2004
+Javed I. Khan||Kenneth M. Anderson||2004
+Javed I. Khan||James A. Warren||2004
+Javed I. Khan||Vinod Tewary||2004
+Javed I. Khan||Cathy S. Lowe||2004
+Javed I. Khan||Cecilia Robinson||2004
+Adam C. Powell||Donald R. Sadoway||2004
+Adam C. Powell||Kenneth M. Anderson||2004
+Adam C. Powell||James A. Warren||2004
+Adam C. Powell||Vinod Tewary||2004
+Adam C. Powell||Cathy S. Lowe||2004
+Adam C. Powell||Cecilia Robinson||2004
+Donald R. Sadoway||Kenneth M. Anderson||2004
+Donald R. Sadoway||James A. Warren||2004
+Donald R. Sadoway||Vinod Tewary||2004
+Donald R. Sadoway||Cathy S. Lowe||2004
+Donald R. Sadoway||Cecilia Robinson||2004
+Kenneth M. Anderson||James A. Warren||2004
+Kenneth M. Anderson||Vinod Tewary||2004
+Kenneth M. Anderson||Cathy S. Lowe||2004
+Kenneth M. Anderson||Cecilia Robinson||2004
+James A. Warren||Vinod Tewary||2004
+James A. Warren||Cathy S. Lowe||2004
+James A. Warren||Cecilia Robinson||2004
+Vinod Tewary||Cathy S. Lowe||2004
+Vinod Tewary||Cecilia Robinson||2004
+Cathy S. Lowe||Cecilia Robinson||2004
+Michael G. Christel||Julieanna Richardson||2006
+Michael G. Christel||Howard D. Wactlar||2006
+Julieanna Richardson||Howard D. Wactlar||2006
+James S. Creel||Katherine Weimer||2012
+Kristin R. Eschenfelder||Ian Benton||2006
+Sergio Duarte Torres||Djoerd Hiemstra||2013
+Sergio Duarte Torres||Theo W. C. Huibers||2013
+Djoerd Hiemstra||Theo W. C. Huibers||2013
+Sonal Bhushan||Qianyi Gu||2004
+Sonal Bhushan||Tamara Sumner||2004
+Qianyi Gu||Tamara Sumner||2004
+Kin Hui||Wai Lam||2001
+Kin Hui||Helen M. Meng||2001
+Wai Lam||Helen M. Meng||2001
+Yueyu Fu||Javed Mostafa||2004
+Michael G. Christel||Ronald M. Conescu||2005
+Martin Klein||Moustafa Aly||2011
+Martin Klein||Michael L. Nelson||2011
+Moustafa Aly||Michael L. Nelson||2011
+William H. Mischo||Thomas G. Habing||2002
+William H. Mischo||Timothy W. Cole||2002
+Thomas G. Habing||Timothy W. Cole||2002
+Ian H. Witten||David Bainbridge||2007
+Peter Brusilovsky||I-Han Hsiao||2008
+Peter Brusilovsky||Michael Yudelson||2008
+I-Han Hsiao||Michael Yudelson||2008
+Cathryn Manduca||Sean Fox||2003
+Tim DiLauro||Mark Cyzyk||2010
+Tim DiLauro||Elliot Metsger||2010
+Tim DiLauro||Mark Patton||2010
+Mark Cyzyk||Elliot Metsger||2010
+Mark Cyzyk||Mark Patton||2010
+Elliot Metsger||Mark Patton||2010
+Liangcai Gao||Xixi Qi||2012
+Liangcai Gao||Zhi Tang||2012
+Liangcai Gao||Xiaofan Lin||2012
+Liangcai Gao||Ying Liu||2012
+Xixi Qi||Zhi Tang||2012
+Xixi Qi||Xiaofan Lin||2012
+Xixi Qi||Ying Liu||2012
+Zhi Tang||Xiaofan Lin||2012
+Zhi Tang||Ying Liu||2012
+Xiaofan Lin||Ying Liu||2012
+Douglas Tudhope||Ceri Binding||2002
+Douglas Tudhope||Dorothee Blocks||2002
+Douglas Tudhope||Daniel Cunliffe||2002
+Ceri Binding||Dorothee Blocks||2002
+Ceri Binding||Daniel Cunliffe||2002
+Dorothee Blocks||Daniel Cunliffe||2002
+Ya-Ning Chen||Hui-Pin Chen||2012
+Ya-Ning Chen||Fei-Yen Tu||2012
+Hui-Pin Chen||Fei-Yen Tu||2012
+David N. Milne||David M. Nichols||2008
+David N. Milne||Ian H. Witten||2008
+David M. Nichols||Ian H. Witten||2008
+Peter Brophy||Shelagh Fisher||2001
+Elizabeth D. Liddy||Stuart A. Sutton||2001
+Elizabeth D. Liddy||Woojin Paik||2001
+Elizabeth D. Liddy||Eileen Allen||2001
+Elizabeth D. Liddy||Sarah Harwell||2001
+Elizabeth D. Liddy||Michelle Monsour||2001
+Elizabeth D. Liddy||Anne M. Turner||2001
+Elizabeth D. Liddy||Jennifer Liddy||2001
+Stuart A. Sutton||Woojin Paik||2001
+Stuart A. Sutton||Eileen Allen||2001
+Stuart A. Sutton||Sarah Harwell||2001
+Stuart A. Sutton||Michelle Monsour||2001
+Stuart A. Sutton||Anne M. Turner||2001
+Stuart A. Sutton||Jennifer Liddy||2001
+Woojin Paik||Eileen Allen||2001
+Woojin Paik||Sarah Harwell||2001
+Woojin Paik||Michelle Monsour||2001
+Woojin Paik||Anne M. Turner||2001
+Woojin Paik||Jennifer Liddy||2001
+Eileen Allen||Sarah Harwell||2001
+Eileen Allen||Michelle Monsour||2001
+Eileen Allen||Anne M. Turner||2001
+Eileen Allen||Jennifer Liddy||2001
+Sarah Harwell||Michelle Monsour||2001
+Sarah Harwell||Anne M. Turner||2001
+Sarah Harwell||Jennifer Liddy||2001
+Michelle Monsour||Anne M. Turner||2001
+Michelle Monsour||Jennifer Liddy||2001
+Anne M. Turner||Jennifer Liddy||2001
+Ifeyinwa Okoye||Tamara Sumner||2013
+Ifeyinwa Okoye||Steven Bethard||2013
+Tamara Sumner||Steven Bethard||2013
+Wei-Ho Tsai||Hsin-Min Wang||2005
+Fernando Loizides||George Buchanan||2008
+James W. Cooper||Mahesh Viswanathan||2001
+James W. Cooper||Donna K. Byron||2001
+James W. Cooper||Margaret Chan||2001
+Mahesh Viswanathan||Donna K. Byron||2001
+Mahesh Viswanathan||Margaret Chan||2001
+Donna K. Byron||Margaret Chan||2001
+Paul Logasa Bogen II||Richard Furuta||2011
+Scott Britell||Lois M. L. Delcambre||2012
+Scott Britell||Lillian N. Cassel||2012
+Scott Britell||Edward A. Fox||2012
+Scott Britell||Richard Furuta||2012
+Lois M. L. Delcambre||Lillian N. Cassel||2012
+Lois M. L. Delcambre||Edward A. Fox||2012
+Lois M. L. Delcambre||Richard Furuta||2012
+Lillian N. Cassel||Edward A. Fox||2012
+Lillian N. Cassel||Richard Furuta||2012
+Edward A. Fox||Richard Furuta||2012
+David Ribes||Karen S. Baker||2005
+David Ribes||Florence Millerand||2005
+David Ribes||Geoffrey C. Bowker||2005
+Karen S. Baker||Florence Millerand||2005
+Karen S. Baker||Geoffrey C. Bowker||2005
+Florence Millerand||Geoffrey C. Bowker||2005
+David Newman||Youn Noh||2010
+David Newman||Edmund M. Talley||2010
+David Newman||Sarvnaz Karimi||2010
+David Newman||Timothy Baldwin||2010
+Youn Noh||Edmund M. Talley||2010
+Youn Noh||Sarvnaz Karimi||2010
+Youn Noh||Timothy Baldwin||2010
+Edmund M. Talley||Sarvnaz Karimi||2010
+Edmund M. Talley||Timothy Baldwin||2010
+Sarvnaz Karimi||Timothy Baldwin||2010
+Horn-yeu Shiaw||Robert J. K. Jacob||2004
+Horn-yeu Shiaw||Gregory R. Crane||2004
+Robert J. K. Jacob||Gregory R. Crane||2004
+Frank Oldenettel||Michael Malachinski||2003
+Frank Oldenettel||Dennis Reil||2003
+Michael Malachinski||Dennis Reil||2003
+Martha Kyrillidou||Sarah Giersch||2005
+Long Ma||Chei Sian Lee||2013
+Long Ma||Dion Hoe-Lian Goh||2013
+Chei Sian Lee||Dion Hoe-Lian Goh||2013
+Kumiko Fujisawa||Kenro Aihara||2008
+Adrian Graham||Hector Garcia-Molina||2002
+Adrian Graham||Andreas Paepcke||2002
+Adrian Graham||Terry Winograd||2002
+Hector Garcia-Molina||Andreas Paepcke||2002
+Hector Garcia-Molina||Terry Winograd||2002
+Andreas Paepcke||Terry Winograd||2002
+Anderson A. Ferreira||Adriano Veloso||2010
+Anderson A. Ferreira||Marcos Andre Goncalves||2010
+Anderson A. Ferreira||Alberto H. F. Laender||2010
+Adriano Veloso||Marcos Andre Goncalves||2010
+Adriano Veloso||Alberto H. F. Laender||2010
+Marcos Andre Goncalves||Alberto H. F. Laender||2010
+Mary Tiles||Brian Bruya||2002
+Tamara Sumner||Sonal Bhushan||2003
+Tamara Sumner||Faisal Ahmad||2003
+Tamara Sumner||Qianyi Gu||2003
+Sonal Bhushan||Faisal Ahmad||2003
+Sonal Bhushan||Qianyi Gu||2003
+Faisal Ahmad||Qianyi Gu||2003
+Marco Dussin||Nicola Ferro||2008
+Jin Zhao||Min-Yen Kan||2008
+Jin Zhao||Yin Leng Theng||2008
+Min-Yen Kan||Yin Leng Theng||2008
+William Y. Arms||Selcuk Aya||2006
+William Y. Arms||Pavel Dmitriev||2006
+William Y. Arms||Blazej J. Kot||2006
+William Y. Arms||Ruth Mitchell||2006
+William Y. Arms||Lucia Walle||2006
+Selcuk Aya||Pavel Dmitriev||2006
+Selcuk Aya||Blazej J. Kot||2006
+Selcuk Aya||Ruth Mitchell||2006
+Selcuk Aya||Lucia Walle||2006
+Pavel Dmitriev||Blazej J. Kot||2006
+Pavel Dmitriev||Ruth Mitchell||2006
+Pavel Dmitriev||Lucia Walle||2006
+Blazej J. Kot||Ruth Mitchell||2006
+Blazej J. Kot||Lucia Walle||2006
+Ruth Mitchell||Lucia Walle||2006
+Edward Clarkson||James D. Foley||2006
+Michael Huggett||Edie Rasmussen||2013
+Frank McCown||Michael L. Nelson||2008
+Zehua Liu||Ee-Peng Lim||2003
+Zehua Liu||Wee Keong Ng||2003
+Zehua Liu||Dion Hoe-Lian Goh||2003
+Ee-Peng Lim||Wee Keong Ng||2003
+Ee-Peng Lim||Dion Hoe-Lian Goh||2003
+Wee Keong Ng||Dion Hoe-Lian Goh||2003
+Richard Furuta||Shueh-Cheng Hu||2001
+Richard Furuta||Siddarth Kalasapur||2001
+Richard Furuta||Rajiv Kochumman||2001
+Richard Furuta||Eduardo Urbina||2001
+Richard Furuta||Ricardo Vivancos-Perez||2001
+Shueh-Cheng Hu||Siddarth Kalasapur||2001
+Shueh-Cheng Hu||Rajiv Kochumman||2001
+Shueh-Cheng Hu||Eduardo Urbina||2001
+Shueh-Cheng Hu||Ricardo Vivancos-Perez||2001
+Siddarth Kalasapur||Rajiv Kochumman||2001
+Siddarth Kalasapur||Eduardo Urbina||2001
+Siddarth Kalasapur||Ricardo Vivancos-Perez||2001
+Rajiv Kochumman||Eduardo Urbina||2001
+Rajiv Kochumman||Ricardo Vivancos-Perez||2001
+Eduardo Urbina||Ricardo Vivancos-Perez||2001
+Kyle R. Rimkus||Thomas G. Habing||2013
+Kai Yu||Jiangqin Wu||2009
+Kai Yu||Yueting Zhuang||2009
+Jiangqin Wu||Yueting Zhuang||2009
+Ivan Subotic||Lukas Rosenthaler||2013
+Ivan Subotic||Heiko Schuldt||2013
+Lukas Rosenthaler||Heiko Schuldt||2013
+Sunshin Lee||Noha Elsherbiny||2012
+Sunshin Lee||Edward A. Fox||2012
+Noha Elsherbiny||Edward A. Fox||2012
+Cathal Hoare||Humphrey Sorensen||2006
+David Bainbridge||Ian H. Witten||2011
+Catherine Lai||Ichiro Fujinaga||2005
+Catherine Lai||Cynthia A. Leive||2005
+Ichiro Fujinaga||Cynthia A. Leive||2005
+Lisa M. Spiro||Marie Wise||2006
+Lisa M. Spiro||Geneva L. Henry||2006
+Lisa M. Spiro||Chuck Bearden||2006
+Lisa M. Spiro||Sidney Byrd||2006
+Lisa M. Spiro||Eva Garza||2006
+Lisa M. Spiro||Michael Decker||2006
+Marie Wise||Geneva L. Henry||2006
+Marie Wise||Chuck Bearden||2006
+Marie Wise||Sidney Byrd||2006
+Marie Wise||Eva Garza||2006
+Marie Wise||Michael Decker||2006
+Geneva L. Henry||Chuck Bearden||2006
+Geneva L. Henry||Sidney Byrd||2006
+Geneva L. Henry||Eva Garza||2006
+Geneva L. Henry||Michael Decker||2006
+Chuck Bearden||Sidney Byrd||2006
+Chuck Bearden||Eva Garza||2006
+Chuck Bearden||Michael Decker||2006
+Sidney Byrd||Eva Garza||2006
+Sidney Byrd||Michael Decker||2006
+Eva Garza||Michael Decker||2006
+Aaron Bauer||Kenneth R. Koedinger||2008
+Shweta Rani||Jay Goodkin||2006
+Shweta Rani||Judy Cobb||2006
+Shweta Rani||Tom Habing||2006
+Shweta Rani||Richard Urban||2006
+Shweta Rani||Janet Eke||2006
+Shweta Rani||Richard Pearce-Moses||2006
+Jay Goodkin||Judy Cobb||2006
+Jay Goodkin||Tom Habing||2006
+Jay Goodkin||Richard Urban||2006
+Jay Goodkin||Janet Eke||2006
+Jay Goodkin||Richard Pearce-Moses||2006
+Judy Cobb||Tom Habing||2006
+Judy Cobb||Richard Urban||2006
+Judy Cobb||Janet Eke||2006
+Judy Cobb||Richard Pearce-Moses||2006
+Tom Habing||Richard Urban||2006
+Tom Habing||Janet Eke||2006
+Tom Habing||Richard Pearce-Moses||2006
+Richard Urban||Janet Eke||2006
+Richard Urban||Richard Pearce-Moses||2006
+Janet Eke||Richard Pearce-Moses||2006
+Masanori Harada||Shin-ya Sato||2004
+Masanori Harada||Kazuhiro Kazama||2004
+Shin-ya Sato||Kazuhiro Kazama||2004
+Te Taka Keegan||Sally Jo Cunningham||2005
+Carl Lagoze||Karin Patzke||2011
+Peter Brusilovsky||Rosta Farzan||2005
+Peter Brusilovsky||Jae-wook Ahn||2005
+Rosta Farzan||Jae-wook Ahn||2005
+Jingjing Liu||Nicholas J. Belkin||2010
+Michael S. Brown||W. Brent Seales||2001
+Anita Coleman||Laura M. Bartolo||2004
+Anita Coleman||Casey Jones||2004
+Laura M. Bartolo||Casey Jones||2004
+Jeffrey Pomerantz||Sanghee Oh||2007
+Jeffrey Pomerantz||Barbara M. Wildemuth||2007
+Jeffrey Pomerantz||Seungwon Yang||2007
+Jeffrey Pomerantz||Edward A. Fox||2007
+Sanghee Oh||Barbara M. Wildemuth||2007
+Sanghee Oh||Seungwon Yang||2007
+Sanghee Oh||Edward A. Fox||2007
